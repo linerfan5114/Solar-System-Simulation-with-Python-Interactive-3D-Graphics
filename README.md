@@ -39,7 +39,7 @@ pip install pygame
 python system-simulation.py
 ```
 
-![Solar System Simulation](Screenshot 2026-06-01 172548.png)
+![Solar System Simulation](screenshot.png)
 
 🎗️ **YouTube & Telegram:**
 
