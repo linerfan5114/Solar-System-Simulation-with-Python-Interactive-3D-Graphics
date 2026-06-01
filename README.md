@@ -38,6 +38,9 @@ cd Solar-System-Simulation-with-Python-Interactive-3D-Graphics
 pip install pygame
 python system-simulation.py
 ```
+
+![Solar System Simulation](Screenshot 2026-06-01 172548.png)
+
 🎗️ **YouTube & Telegram:**
 
 YouTube : https://www.youtube.com/@airspacecode
