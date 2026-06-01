@@ -33,7 +33,7 @@ Welcome to AirSpace! In this video, I show you a complete interactive Solar Syst
 
 ▶️ **How to run the simulation:**
 ```bash
-git clone [YOUR-REPO-LINK]
+git clone https://github.com/linerfan5114/Solar-System-Simulation-with-Python-Interactive-3D-Graphics.git
 cd [FOLDER-NAME]
 pip install pygame
 python solar_system.py
