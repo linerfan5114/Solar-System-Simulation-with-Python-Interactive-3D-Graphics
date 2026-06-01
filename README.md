@@ -39,6 +39,7 @@ pip install pygame
 python system-simulation.py
 ```
 🎗️ **YouTube & Telegram:**
-YouTube :
 
-Telegram:
+YouTube : https://www.youtube.com/@airspacecode
+
+Telegram: https://t.me/airspacecode
