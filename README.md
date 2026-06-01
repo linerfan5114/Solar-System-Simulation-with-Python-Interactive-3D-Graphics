@@ -25,7 +25,7 @@ Welcome to AirSpace! In this video, I show you a complete interactive Solar Syst
 
 📦 **Download the Complete Code:**
 
-🔗 GitHub Repository: [INSERT YOUR GITHUB LINK HERE]
+🔗 GitHub Repository: https://github.com/linerfan5114/Solar-System-Simulation-with-Python-Interactive-3D-Graphics.git
 
 ⚙️ **Requirements to run:**
 - Python 3.7 or higher
@@ -34,6 +34,6 @@ Welcome to AirSpace! In this video, I show you a complete interactive Solar Syst
 ▶️ **How to run the simulation:**
 ```bash
 git clone https://github.com/linerfan5114/Solar-System-Simulation-with-Python-Interactive-3D-Graphics.git
-cd [FOLDER-NAME]
+cd Solar-System-Simulation-with-Python-Interactive-3D-Graphics
 pip install pygame
-python solar_system.py
+python system-simulation.py
