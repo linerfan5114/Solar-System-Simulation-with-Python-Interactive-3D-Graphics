@@ -37,3 +37,8 @@ git clone https://github.com/linerfan5114/Solar-System-Simulation-with-Python-In
 cd Solar-System-Simulation-with-Python-Interactive-3D-Graphics
 pip install pygame
 python system-simulation.py
+```
+🎗️ **YouTube & Telegram:**
+YouTube :
+
+Telegram:
